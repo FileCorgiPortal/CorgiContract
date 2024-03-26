@@ -1,6 +1,6 @@
 ## FileCorgi Contract Address
 
-FileCorgi Token (CORGI) is a custom ERC20 token deployed on the Filecoin blockchain. The token contract includes functionality for transferring tokens, managing allowances, and implementing token fees and burns. Below are some key features of the CORGI token:
+File Corgi (CORGI) is a custom ERC20 token deployed on the Filecoin blockchain. The token contract includes functionality for transferring tokens, managing allowances, and implementing token fees and burns. Below are some key features of the CORGI token:
 
 - **Name:** FILE CORGI
 - **Symbol:** CORGI
